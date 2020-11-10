@@ -7,10 +7,6 @@
   margin-bottom: 10px;
 }
 
-#sleeptime {
-  width: 120px;
-}
-
-#age {
-  width: 56px;
+.sleeptime {
+  display: inline;
 }
